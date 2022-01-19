@@ -19,17 +19,19 @@ const Aboutme = () => {
                     <button className='front__end text-info'>PERSONAL</button>
                     <div className='row mt-5'>
                         <div className='col-5 text-light'>
-                            <p>First Name :</p>
-                            <p>Last Name :</p>
-                            <p>Age :</p>
-                            <p>Nationality :</p>
-                            <p>Address :</p>
+                            <p>First Name </p>
+                            <p>Last Name </p>
+                            <p>Age </p>
+                            <p>Nationality </p>
+                            <p>Language </p>
+                            <p>Address </p>
                         </div>
                         <div className='col-7 text-warning text-right'>
                             <p>HOANG</p>
                             <p>DUY</p>
                             <p>22</p>
                             <p>VIETNAM</p>
+                            <p>Vietnamese, English</p>
                             <p>Hung Ha district, Thai Binh Province</p>
                         </div>
                     </div>
@@ -43,8 +45,8 @@ const Aboutme = () => {
                             <p><i className="fa fa-github"></i></p>
                         </div>
                         <div className='col-10 text-warning text-right'>
-                            <p>:hoangduy241199@gmail.com</p>
-                            <p>:+84-969-237-429</p>
+                            <p>hoangduy241199@gmail.com</p>
+                            <p>+84-969-237-429</p>
                             <p><a href='www.facebook.com/duy.zp'>Hoàng Duy Duy</a></p>
                             <p>live:.cid.207563c5f1c97d78</p>
                             <p><a href='https://github.com/duydzht'>Duy Hoang</a></p>

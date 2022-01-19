@@ -16,7 +16,7 @@ export default function FrontEnd() {
                         <p>React</p>
                     </div>
                     <div className='col-8'>
-                        <span className='text-warning'>- React js</span>
+                        <span className='text-warning'> React js</span>
                         <div className='text-light'>
                             ClassComponent, Functional Component, Redux, AXIOS
                             (call API)
@@ -35,7 +35,7 @@ export default function FrontEnd() {
                         />
                     </div>
                     <div className='col-8'>
-                        <span className='text-warning'>- NextJS</span>
+                        <span className='text-warning'> NextJS</span>
                         <div className='text-light'>
                             Functional Component, Redux, AXIOS (call API)
                         </div>
@@ -53,7 +53,7 @@ export default function FrontEnd() {
                         />
                     </div>
                     <div className='col-8'>
-                        <span className='text-warning'>- HTML 5</span>
+                        <span className='text-warning'> HTML 5</span>
                         <div className='text-light'>Bootstrap</div>
                     </div>
                 </div>
@@ -69,7 +69,7 @@ export default function FrontEnd() {
                         />
                     </div>
                     <div className='col-8'>
-                        <span className='text-warning'>- CSS 3</span>
+                        <span className='text-warning'> CSS 3</span>
                         <div className='text-light'>Website Responsive</div>
                     </div>
                 </div>
@@ -80,7 +80,7 @@ export default function FrontEnd() {
                         <img src='/js.png' alt='' width='70px' height='70px' />
                     </div>
                     <div className='col-8'>
-                        <span className='text-warning'>- JavaScript</span>
+                        <span className='text-warning'> JavaScript</span>
                         <div className='text-light'>JavaScript ES5, ES6</div>
                     </div>
                 </div>

@@ -23,7 +23,7 @@ export default function EducationView() {
                 <div className='col-7'>
                     <div className='container'>
                         <h3 className='text-warning'>
-                            - Front-End Web programing with ReactJS
+                            Front-End Web programing with ReactJS
                         </h3>
                         <p className='text-light'>
                             Description: Build a human resource management
@@ -38,7 +38,7 @@ export default function EducationView() {
                 <div className='col-7'>
                     <div className='container'>
                         <h3 className='text-warning'>
-                            - Certificate Web Developer responsive with HTML5 -
+                            Certificate Web Developer responsive with HTML5 -
                             CSS3
                         </h3>
                         <p className='text-light'>
@@ -65,7 +65,7 @@ export default function EducationView() {
                 <div className='col-7'>
                     <div className='container'>
                         <h3 className='text-warning'>
-                            - Creating your Program with JavaScript
+                            Creating your Program with JavaScript
                         </h3>
                         <p className='text-light'>
                             Description: Building an application to manage
