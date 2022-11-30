@@ -29,10 +29,10 @@ const Aboutme = () => {
                         <div className='col-7 text-warning text-right'>
                             <p>HOANG</p>
                             <p>DUY</p>
-                            <p>22</p>
+                            <p>24</p>
                             <p>VIETNAM</p>
                             <p>Vietnamese, English</p>
-                            <p>Hung Ha district, Thai Binh Province</p>
+                            <p>Hoai Duc district, Ha Noi city</p>
                         </div>
                     </div>
                     <button className='front__end text-info'>CONTACT</button>

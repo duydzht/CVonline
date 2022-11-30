@@ -16,10 +16,9 @@ export default function FrontEnd() {
                         <p>React</p>
                     </div>
                     <div className='col-8'>
-                        <span className='text-warning'> React js</span>
+                        <span className='text-warning'> React JS</span>
                         <div className='text-light'>
-                            ClassComponent, Functional Component, Redux, AXIOS
-                            (call API)
+                            React-Functional-Component, Hooks, Redux
                         </div>
                     </div>
                 </div>
@@ -37,7 +36,7 @@ export default function FrontEnd() {
                     <div className='col-8'>
                         <span className='text-warning'> NextJS</span>
                         <div className='text-light'>
-                            Functional Component, Redux, AXIOS (call API)
+                            Basic Skill
                         </div>
                     </div>
                 </div>
@@ -46,31 +45,15 @@ export default function FrontEnd() {
                 <div className='card_skill row'>
                     <div className='col-4'>
                         <img
-                            src='/html.jpg'
+                            src='/sass.png'
                             alt=''
                             width='70px'
                             height='70px'
                         />
                     </div>
                     <div className='col-8'>
-                        <span className='text-warning'> HTML 5</span>
-                        <div className='text-light'>Bootstrap</div>
-                    </div>
-                </div>
-            </div>
-            <div className='col-6 mt-4'>
-                <div className='card_skill row'>
-                    <div className='col-4'>
-                        <img
-                            src='/css3.jpg'
-                            alt=''
-                            width='70px'
-                            height='70px'
-                        />
-                    </div>
-                    <div className='col-8'>
-                        <span className='text-warning'> CSS 3</span>
-                        <div className='text-light'>Website Responsive</div>
+                        <span className='text-warning'> CSS, SCSS</span>
+                        <div className='text-light'>Bootstrap, Tailwind</div>
                     </div>
                 </div>
             </div>

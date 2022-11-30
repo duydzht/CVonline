@@ -2,9 +2,9 @@
   "name": "mycvapp",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "set port=4600 && next dev",
     "build": "next build",
-    "start": "next start",
+    "start": "set port=4600 && next start",
     "lint": "next lint"
   },
   "dependencies": {
@@ -12,7 +12,8 @@
     "font-awesome": "^4.7.0",
     "next": "12.0.8",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "sharp": "^0.31.2"
   },
   "devDependencies": {
     "eslint": "8.7.0",

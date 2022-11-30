@@ -16,7 +16,7 @@ export default function Other() {
                     </div>
                     <div className='col-8'>
                         <span className='text-warning'>- Github</span>
-                        <div className='text-light'>Push, Pull, Clone</div>
+                        <div className='text-light'>Git SCM</div>
                     </div>
                 </div>
             </div>

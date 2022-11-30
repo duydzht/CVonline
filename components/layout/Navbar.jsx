@@ -16,7 +16,12 @@ const Navbar = () => {
                     <i className='fa fa-user'></i>
                 </a>
             </Link>
-            <Link href='/education'>
+            {/* <Link href='/education'>
+                <a className='snip1582'>
+                    <i className='fa fa-book'></i>
+                </a>
+            </Link> */}
+            <Link href='/experiences'>
                 <a className='snip1582'>
                     <i className='fa fa-briefcase'></i>
                 </a>
